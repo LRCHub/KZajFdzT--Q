@@ -1,0 +1,84 @@
+# gnash – imagine if
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:01.30] Ah yeah
+[00:04.80] 
+[00:09.29] Yeah, if I could go back
+[00:12.60] Just for a night
+[00:15.13] I would see the future and I'd make it alright
+[00:19.63] Oh, darling, if life was a movie
+[00:23.29] I'd hit rewind, yeah
+[00:26.35] Imagine if I knew how to turn back time
+[00:45.85] 
+[00:30.94] Imagine if I never messed up
+[00:32.81] Imagine if we never even broke up (nope)
+[00:35.39] Imagine if I had the power to control the voices in my head
+[00:38.23] And I could tell them all to shut the fuck up (shut the fuck up)
+[01:10.23] 
+[00:41.18] Imagine if I never told a lie
+[00:43.35] Imagine if I knew how to always get it right
+[00:45.92] Imagine if I wasn't such a coward and I had the courage
+[00:48.72] Hidden somewhere in my heart to look you in the eye, yeah, yeah
+[01:20.22] 
+[00:51.73] If I could go back (go back)
+[00:54.60] Just for a night (yeah)
+[00:56.98] I would see the future and I'd make it alright
+[01:01.26] Oh, darling, if life was a movie
+[01:04.65] I'd hit rewind (yeah)
+[01:07.72] Imagine if I knew how to turn back time
+[01:27.22] 
+[01:11.86] I was thinkin' like, aye-oh, aye-oh, aye okay
+[01:15.41] Lost our love in the mess we made
+[01:18.09] Aye-oh, aye-oh, aye okay
+[01:20.67] If tomorrow was yesterday
+[01:33.17] 
+[01:23.18] I wonder if I saw your face again
+[01:25.24] Would you be a stranger or would we be more than friends?
+[01:27.69] Would this be the beginning or the long and winding road
+[01:30.13] That takes us all the way around until the very bitter end?
+[01:59.63] 
+[01:33.46] Imagine if we never felt fear
+[01:35.56] Imagine we were brave enough to never hide the tears
+[01:38.11] Imagine if I didn't have to worry about everything around me
+[01:41.35] And my sanity was actually here (yeah)
+[02:00.35] 
+[01:44.36] I just got so caught up in the moment
+[01:49.43] Didn't even realize we were broken
+[02:06.43] 
+[01:54.19] If I could go back (go back)
+[01:57.05] Just for a night (yeah)
+[01:59.90] I would see the future and I'd make it alright
+[02:04.02] Oh, darling, if life was a movie
+[02:07.35] I'd hit rewind, yeah
+[02:10.49] Imagine if I knew how to turn back time
+[02:29.99] 
+[02:14.46] I was thinkin' like, aye-oh, aye-oh, aye okay
+[02:18.03] Lost our love in the mess we made
+[02:20.63] Aye-oh, aye-oh, aye okay
+[02:23.28] If tomorrow was yesterday
+[02:35.78] 
+[02:24.86] I was thinkin' like, aye-oh, aye-oh, aye okay
+[02:28.35] Lost our love in the mess we made
+[02:30.97] Aye-oh, aye-oh, aye okay
+[02:42.97] 
+[02:36.13] Imagine what the world be like
+[02:38.02] If everybody stayed in love
+[02:39.92] If everybody stayed offline
+[02:41.95] Imagine what the world be like
+[02:43.96] Imagine what the world be like, yeah
+[03:01.96] 
+[02:46.73] Imagine what the world be like
+[02:48.52] If everybody stayed in love
+[02:50.43] If everybody stayed offline
+[02:52.41] Imagine what the world be like
+[02:54.37] Imagine what the world be like
+[03:09.37] 
+[02:56.03] But until then, If I could go back (go back)
+[02:59.64] Just for a night (yeah)
+[03:02.13] I would see the future and I'd make it alright
+[03:06.58] Oh, darling, if life was a movie
+[03:09.96] I'd hit rewind, yeah
+[03:12.99] Imagine if I knew how to turn back time
+```
