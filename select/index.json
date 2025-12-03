@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "imagine if",
+  "base_artist": "gnash",
+  "createdAt": "2025-12-03T13:23:17.124564Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "imagine if",
+      "artist": "Garrett Nash",
+      "has_synced": true,
+      "path": "select/01_imagine_if_Garrett_Nash.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "imagine if",
+      "artist": "gnash",
+      "has_synced": true,
+      "path": "select/02_imagine_if_gnash.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "imagine if (feat. ruth b.)",
+      "artist": "gnash feat. Ruth B.",
+      "has_synced": true,
+      "path": "select/03_imagine_if_(feat._ruth_b.)_gnash_feat._Ruth_B..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "imagine if",
+      "artist": "gnash/Ruth B.",
+      "has_synced": true,
+      "path": "select/04_imagine_if_gnash_Ruth_B..lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "imagine if (feat. ruth b.)",
+      "artist": "gnash",
+      "has_synced": true,
+      "path": "select/05_imagine_if_(feat._ruth_b.)_gnash.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "imagine if",
+      "artist": "gnash",
+      "has_synced": true,
+      "path": "select/06_imagine_if_gnash.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Imagine If Ninja Got a Low Taper Fade",
+      "artist": "Coems",
+      "has_synced": false,
+      "path": "select/07_Imagine_If_Ninja_Got_a_Low_Taper_Fade_Coems.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "imagine if (feat. ruth b.)",
+      "artist": "gnash, Ruth B.",
+      "has_synced": true,
+      "path": "select/08_imagine_if_(feat._ruth_b.)_gnash,_Ruth_B..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "gnash - imagine if (lyric video)",
+      "artist": "gnash",
+      "has_synced": true,
+      "path": "select/09_gnash_-_imagine_if_(lyric_video)_gnash.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Imagine if ninja got a low taper fade extended",
+      "artist": "ph0bia",
+      "has_synced": false,
+      "path": "select/10_Imagine_if_ninja_got_a_low_taper_fade_extended_ph0bia.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Imagine If Ninja Got a Low Taper Fade",
+      "artist": "Tambo",
+      "has_synced": false,
+      "path": "select/11_Imagine_If_Ninja_Got_a_Low_Taper_Fade_Tambo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "imagine if",
+      "artist": "gnash",
+      "has_synced": false,
+      "path": "select/pl_01_imagine_if_gnash.txt"
+    }
+  ]
+}
